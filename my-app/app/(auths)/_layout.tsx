@@ -4,7 +4,7 @@ import React from 'react'
 export default function _layout() {
     return (
         <Stack>
-            <Stack.Screen name="index" options={{ headerShown: true }} />
+            <Stack.Screen name="login" options={{ headerShown: true }} />
         </Stack>
     )
 }
