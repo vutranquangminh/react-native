@@ -42,7 +42,7 @@ export default function LoginScreen() {
 
         <View>
             <Text>Register Screen</Text>
-            <Link href="/(auths)/register">
+            <Link href="/(tabs)/profile">
                 <Text>Create an account</Text>
             </Link>
         </View>

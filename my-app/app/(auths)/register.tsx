@@ -1,9 +1,7 @@
-import { Link } from 'expo-router'
 import React, {useState} from 'react'
-import { View, Text, StyleSheet, TextInput } from 'react-native'
+import { View, Text } from 'react-native'
 
 export default function RegisterScreen() {
-  const [fullName, setFullName] = useState<string>('')
   const [username, setUsername] = useState<string>('')
   const [email, setEmail] = useState<string>('')
   const [password, setPassword] = useState<string>('')
