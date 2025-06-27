@@ -107,3 +107,5 @@ This project is part of a hands-on learning course in **React Native with TypeSc
 ## ✨ Author
 Vũ Trần Quang Minh – React Native Learner  
 [GitHub](https://github.com/vutranquangminh) | [LinkedIn](https://linkedin.com/in/vutranquangminh)
+
+---
